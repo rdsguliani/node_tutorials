@@ -1,0 +1,10 @@
+npm init
+
+
+user input
+ >> user to enter new project name
+ >> create project in location
+ >> npm init
+ >> install express, server, nodemon and create index.js file
+ >> update package.json with start
+ >> 
